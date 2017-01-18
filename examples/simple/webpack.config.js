@@ -19,7 +19,7 @@ module.exports = {
   ],
   resolve: {
     alias: {
-      'library-boilerplate': path.join(__dirname, '..', '..', 'src')
+      'react-mojs': path.join(__dirname, '..', '..', 'src')
     },
     extensions: ['', '.js']
   },

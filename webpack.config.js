@@ -29,7 +29,7 @@ module.exports = {
     }]
   },
   output: {
-    library: 'library-boilerplate',
+    library: 'react-mojs',
     libraryTarget: 'umd'
   },
   plugins: plugins,
